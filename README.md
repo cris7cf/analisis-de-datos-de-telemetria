@@ -48,7 +48,7 @@ Este proyecto es una aplicación web que permite comparar el rendimiento de dife
    pip isntall flask
 3. Ejecuta el programa:
    ```bash
-   python main.py
+   python app.py
 
 <h2>🌐 Connect with me:</h2>
 <p>
