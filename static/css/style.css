@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+select {
+    margin: 10px;
+    padding: 5px;
+}
